@@ -13,6 +13,12 @@ Un espacio compartido para aprender, experimentar y llegar a la hackathon con un
 
 </div>
 
+<div align="center">
+
+**[Herramientas del equipo](HERRAMIENTAS.md)** · [Cómo contribuir](CONTRIBUTING.md) · [Roles](docs/ROLES.md)
+
+</div>
+
 ---
 
 ## Sobre este repositorio
@@ -148,6 +154,8 @@ Los recursos binarios se almacenan mediante Git LFS. Las escenas `.tscn`, los re
 - Un cambio pequeño y probado vale más que uno enorme sin revisar.
 - Las herramientas de IA aceleran el trabajo, pero el equipo verifica cada resultado.
 - Las escenas compartidas se modifican únicamente con coordinación previa.
+
+Consultá la [guía de herramientas y recursos](HERRAMIENTAS.md) antes de incorporar contenido externo o utilizar asistentes de IA.
 
 ---
 
