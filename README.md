@@ -53,6 +53,15 @@ Los nombres son provisionales y están escritos como aparecen en la asignación 
 
 La distribución de responsabilidades y subsistemas está explicada en [`docs/ROLES.md`](docs/ROLES.md).
 
+### Coordinación y acompañamiento
+
+| Función | Persona |
+|---|---|
+| **Participante, organizador y líder del proyecto** | Sebastián Bagli Barrera |
+| **Docente** | Prof. Patricia Serrano |
+| **Docente** | Prof. Ricardo López |
+| **Docente** | Prof. Santiago Belén |
+
 ## Puesta en marcha
 
 ### Requisitos
