@@ -45,11 +45,11 @@ Los nombres son provisionales y están escritos como aparecen en la asignación 
 
 | Rol | Integrantes |
 |---|---|
-| **Diseño** | Ian, Nahuel, Tomy, Uma, Mia, Montes, Lauti |
-| **Código** | Agustin, Ary, Nahuel, Lauti, Montes |
-| **Prompt / IA** | Sebastian, Agus, Nahuel, Lorax, Valentina |
-| **Test** | Fran, Godoy, Lorax, Valentina, Dani |
-| **Cast** | Sebastian, Lorax, Godoy, Tomy |
+| **Diseño** | Roman Ian Nehuel, Huayquinao Santiago Nahuel, Cofre Tomas Alejandro, Toledo Mía Agustina, Mateo Andrés Montes, Lautaro Benjamin Alfonsín |
+| **Código** | Cerda Coria Agustín Ezequiel, San Martín Flores Martina Aryadne, Huayquinao Santiago Nahuel, Lautaro Benjamin Alfonsín, Mateo Andrés Montes |
+| **Prompt Engineering** | Sebastián Bagli Barrera, Cerda Coria Agustín Ezequiel, Huayquinao Santiago Nahuel, Lorenzo Martin Miranda Ortiz, Venancio Villaruel Valentina |
+| **Test** | Campos Franco Manuel, Godoy Thiago, Lorenzo Martin Miranda Ortiz, Venancio Villaruel Valentina, Claveria Hurtado Daniela Lujan |
+| **Cast** | Sebastián Bagli Barrera, Lorenzo Martin Miranda Ortiz, Godoy Thiago, Cofre Tomas Alejandro |
 
 La distribución de responsabilidades y subsistemas está explicada en [`docs/ROLES.md`](docs/ROLES.md).
 

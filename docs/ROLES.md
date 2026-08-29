@@ -1,12 +1,12 @@
 # Roles y responsabilidades
 
-La asignación inicial comprende 16 estudiantes únicos. Algunas personas aparecen en más de un rol porque colaborarán en distintas etapas.
+La asignación inicial comprende 14 participantes únicos. Algunas personas aparecen en más de un rol porque colaborarán en distintas etapas.
 
 > Los nombres son provisionales y se actualizarán cuando estén disponibles los nombres y apellidos completos.
 
 ## Diseño
 
-**Integrantes:** Ian, Nahuel, Tomy, Uma, Mia, Montes y Lauti.
+**Integrantes:** Roman Ian Nehuel, Huayquinao Santiago Nahuel, Cofre Tomas Alejandro, Toledo Mía Agustina, Mateo Andrés Montes y Lautaro Benjamin Alfonsín.
 
 Responsabilidades:
 
@@ -14,11 +14,11 @@ Responsabilidades:
 - diseñar escenas, niveles y progresión;
 - acordar controles, feedback y presentación visual;
 - definir el mensaje cuando se trabaje con la opción B;
-- entregar decisiones claras a Código y Prompt/IA.
+- entregar decisiones claras a Código y Prompt Engineering.
 
 ## Código
 
-**Integrantes:** Agustin, Ary, Nahuel, Lauti y Montes.
+**Integrantes:** Cerda Coria Agustín Ezequiel, San Martín Flores Martina Aryadne, Huayquinao Santiago Nahuel, Lautaro Benjamin Alfonsín y Mateo Andrés Montes.
 
 Responsabilidades:
 
@@ -30,9 +30,9 @@ Responsabilidades:
 
 Una persona del grupo será designada **Responsable de Integración** al comenzar cada práctica. No es un rol separado: es una responsabilidad adicional.
 
-## Prompt / IA
+## Prompt Engineering
 
-**Integrantes:** Sebastian, Agus, Nahuel, Lorax y Valentina.
+**Integrantes:** Sebastián Bagli Barrera, Cerda Coria Agustín Ezequiel, Huayquinao Santiago Nahuel, Lorenzo Martin Miranda Ortiz y Venancio Villaruel Valentina.
 
 Responsabilidades:
 
@@ -44,7 +44,7 @@ Responsabilidades:
 
 ## Test
 
-**Integrantes:** Fran, Godoy, Lorax, Valentina y Dani.
+**Integrantes:** Campos Franco Manuel, Godoy Thiago, Lorenzo Martin Miranda Ortiz, Venancio Villaruel Valentina y Claveria Hurtado Daniela Lujan.
 
 Responsabilidades:
 
@@ -56,7 +56,7 @@ Responsabilidades:
 
 ## Cast
 
-**Integrantes:** Sebastian, Lorax, Godoy y Tomy.
+**Integrantes:** Sebastián Bagli Barrera, Lorenzo Martin Miranda Ortiz, Godoy Thiago y Cofre Tomas Alejandro.
 
 Responsabilidades:
 
