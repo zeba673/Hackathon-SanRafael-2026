@@ -1,0 +1,41 @@
+name: Prueba
+description: Definir un caso que el equipo de Test debe verificar.
+title: "[Test]: "
+labels: ["test"]
+body:
+  - type: textarea
+    id: escenario
+    attributes:
+      label: Escenario
+      description: ¿Qué comportamiento debe probarse?
+    validations:
+      required: true
+  - type: textarea
+    id: preparacion
+    attributes:
+      label: Preparación
+      description: Estado, escena o datos necesarios antes de probar.
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos de prueba
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: dropdown
+    id: resultado
+    attributes:
+      label: Resultado
+      options:
+        - Pendiente
+        - Aprobado
+        - Falló
+        - Bloqueado
+    validations:
+      required: true
+

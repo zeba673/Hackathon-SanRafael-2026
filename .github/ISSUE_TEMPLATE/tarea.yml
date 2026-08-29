@@ -1,0 +1,44 @@
+name: Tarea
+description: Proponer o asignar trabajo concreto del proyecto.
+title: "[Tarea]: "
+labels: ["tarea"]
+body:
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+      description: ¿Qué resultado debe quedar funcionando?
+    validations:
+      required: true
+  - type: dropdown
+    id: subsistema
+    attributes:
+      label: Subsistema
+      options:
+        - Jugador
+        - Spawner
+        - Puntaje / UI
+        - Colisiones / Game Over
+        - Pantalla final
+        - Assets
+        - Documentación
+        - Integración
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      description: Indicá cómo sabremos que la tarea está terminada.
+      placeholder: |
+        - [ ] El jugador responde a WASD.
+        - [ ] No sale de los límites de pantalla.
+    validations:
+      required: true
+  - type: input
+    id: responsable
+    attributes:
+      label: Responsable o equipo
+      placeholder: Nombre o rol
+

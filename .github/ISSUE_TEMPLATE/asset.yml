@@ -1,0 +1,41 @@
+name: Asset
+description: Solicitar una imagen, sonido, fuente, modelo o recurso visual.
+title: "[Asset]: "
+labels: ["asset"]
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de recurso
+      options:
+        - Sprite
+        - Fondo
+        - Interfaz / icono
+        - Audio
+        - Fuente
+        - Modelo 3D
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: uso
+    attributes:
+      label: Uso dentro del juego
+      description: ¿Dónde aparecerá y qué debe comunicar?
+    validations:
+      required: true
+  - type: textarea
+    id: especificaciones
+    attributes:
+      label: Especificaciones
+      placeholder: Dimensiones, formato, fondo transparente, duración, estilo o variantes.
+    validations:
+      required: true
+  - type: checkboxes
+    id: derechos
+    attributes:
+      label: Origen y permisos
+      options:
+        - label: Confirmaré el origen y permiso de uso del recurso.
+          required: true
+

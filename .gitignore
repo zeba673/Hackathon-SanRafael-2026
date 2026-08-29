@@ -1,0 +1,24 @@
+# Godot 4 generated files
+.godot/
+
+# Godot 3 compatibility
+.import/
+
+# Exported builds and credentials
+builds/
+export.cfg
+export_credentials.cfg
+
+# C# / Mono generated files
+.mono/
+data_*/
+mono_crash.*.json
+
+# Editors and operating systems
+.idea/
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+Desktop.ini
+

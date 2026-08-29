@@ -1,0 +1,40 @@
+name: Bug
+description: Informar un comportamiento incorrecto y reproducible.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Qué ocurrió
+      description: Describí el problema con claridad.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para reproducirlo
+      placeholder: |
+        1. Abrir la escena...
+        2. Presionar...
+        3. Observar...
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versión de Godot y sistema operativo
+      placeholder: Godot 4.x — Windows 11
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Capturas, video o mensajes de error
+
