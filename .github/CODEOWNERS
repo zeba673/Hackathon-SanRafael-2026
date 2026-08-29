@@ -1,0 +1,8 @@
+# Estos documentos requieren la revisión de Sebastián antes de integrarse.
+/README.md @zeba673
+/CODE_OF_CONDUCT.md @zeba673
+/CONTRIBUTING.md @zeba673
+/LICENSE @zeba673
+
+# Protege también esta configuración para que las reglas no puedan quitarse.
+/.github/CODEOWNERS @zeba673
