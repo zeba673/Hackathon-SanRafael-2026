@@ -98,5 +98,5 @@ No incluyas contraseñas, tokens, información privada ni claves de servicios en
 
 ## Convivencia
 
-Todas las personas que participan deben respetar el [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md). Ante una duda o conflicto, pedí acompañamiento a la persona docente o responsable del equipo.
+Todas las personas que participan deben respetar el [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md). Ante una duda, conflicto o situación sensible, comunicate de manera privada con Sebastián mediante los canales indicados en [Contacto y consultas](README.md#contacto-y-consultas). Si el caso excede su función, será derivado a la docente referente.
 

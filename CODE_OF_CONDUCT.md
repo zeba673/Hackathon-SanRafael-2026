@@ -23,7 +23,13 @@ Queremos que este repositorio sea un espacio seguro para aprender, preguntar, ex
 
 ## Resolución de situaciones
 
-Si ocurre una situación incómoda o insegura, no es necesario resolverla en público. Informala a la persona docente o responsable del equipo. Se escuchará a las partes involucradas y se tomarán medidas proporcionales, priorizando la seguridad y el aprendizaje.
+Si ocurre una situación incómoda o insegura, no es necesario resolverla en público. Podés comunicarte de forma privada con **Sebastián Bagli Barrera** mediante alguno de estos canales:
+
+- Correo: [sebastianbagli673@gmail.com](mailto:sebastianbagli673@gmail.com)
+- Discord: `sebastianbagli`
+- WhatsApp: [+54 2984 155122](https://wa.me/542984155122), únicamente por mensaje y sin llamadas.
+
+Las situaciones sensibles no deben publicarse en GitHub Issues. Se escuchará a las personas involucradas con respeto y confidencialidad. Cuando un caso exceda las responsabilidades de coordinación del proyecto, Sebastián lo comunicará a la **Prof. Patricia Serrano**, docente referente, para su acompañamiento.
 
 Este código se aplica al repositorio, los pull requests, GitHub Issues, Discord y cualquier actividad vinculada con el proyecto.
 

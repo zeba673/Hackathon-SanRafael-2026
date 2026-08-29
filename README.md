@@ -58,9 +58,22 @@ La distribución de responsabilidades y subsistemas está explicada en [`docs/RO
 | Función | Persona |
 |---|---|
 | **Participante, organizador y líder del proyecto** | Sebastián Bagli Barrera |
-| **Docente** | Prof. Patricia Serrano |
-| **Docente** | Prof. Ricardo López |
-| **Docente** | Prof. Santiago Belén |
+| **Docente referente** | Prof. Patricia Serrano |
+| **Docente acompañante** | Prof. Ricardo López |
+| **Docente acompañante** | Prof. Santiago Belén |
+
+### Contacto y consultas
+
+Ante dudas, problemas de acceso, conflictos o cualquier situación relacionada con el proyecto, pueden comunicarse con **Sebastián Bagli Barrera**:
+
+- **Correo:** [sebastianbagli673@gmail.com](mailto:sebastianbagli673@gmail.com)
+- **Discord:** `sebastianbagli`
+- **WhatsApp:** [+54 2984 155122](https://wa.me/542984155122)
+
+> [!NOTE]
+> El contacto por WhatsApp es únicamente mediante mensajes; no se reciben llamadas. Las situaciones privadas o sensibles deben comunicarse por un canal privado y no publicarse en GitHub Issues.
+
+Cuando una situación exceda las responsabilidades de coordinación del proyecto, será comunicada a la **Prof. Patricia Serrano**, docente referente, para su acompañamiento.
 
 ## Puesta en marcha
 
