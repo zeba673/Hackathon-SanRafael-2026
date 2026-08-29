@@ -1,12 +1,12 @@
 # Roles y responsabilidades
 
-La asignación inicial comprende 14 participantes únicos. Algunas personas aparecen en más de un rol porque colaborarán en distintas etapas.
+La asignación inicial comprende 15 participantes únicos. Algunas personas aparecen en más de un rol porque colaborarán en distintas etapas.
 
 > Los nombres son provisionales y se actualizarán cuando estén disponibles los nombres y apellidos completos.
 
 ## Diseño
 
-**Integrantes:** Roman Ian Nehuel, Huayquinao Santiago Nahuel, Cofre Tomas Alejandro, Toledo Mía Agustina, Mateo Andrés Montes y Lautaro Benjamin Alfonsín.
+**Integrantes:** Roman Ian Nehuel, Huayquinao Santiago Nahuel, Cofre Tomas Alejandro, Serrano Uma, Toledo Mía Agustina, Mateo Andrés Montes y Lautaro Benjamin Alfonsín.
 
 Responsabilidades:
 
