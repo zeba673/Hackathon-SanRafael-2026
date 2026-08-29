@@ -1,6 +1,6 @@
-# Herramientas y recursos del equipo
+# Herramientas y uso seguro
 
-Esta guía reúne recursos que pueden ayudarnos durante las prácticas y la hackathon. No es obligatorio usar todas las herramientas: cada equipo puede elegir las que mejor se adapten a su tarea.
+Esta guía reúne los recursos que pueden ayudarnos durante las prácticas y establece cómo utilizarlos de forma segura. No es obligatorio usar todas las herramientas: cada equipo puede elegir las que mejor se adapten a su tarea.
 
 > [!IMPORTANT]
 > Antes de incorporar imágenes, sonidos, modelos, código o cualquier otro recurso al juego, revisá su licencia y guardá la atribución correspondiente cuando sea necesaria.
@@ -86,6 +86,10 @@ Su enfoque es útil para:
 4. Verificar manualmente cualquier resultado generado por IA.
 5. Probar el cambio en Godot antes de abrir un pull request.
 6. Registrar en el pull request los recursos externos y herramientas relevantes que se hayan utilizado.
+
+## Informar un problema de seguridad
+
+Si encontrás una credencial expuesta, información privada, un archivo que no debería ser público o cualquier otro riesgo de seguridad, no lo publiques en un issue. Comunicate de manera privada con **Sebastián Bagli Barrera** mediante el correo [sebastianbagli673@gmail.com](mailto:sebastianbagli673@gmail.com) o Discord (`sebastianbagli`).
 
 ---
 
