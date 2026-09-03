@@ -61,6 +61,12 @@ Agente de programación que puede colaborar en tareas de desarrollo de software,
 
 Plataforma de desarrollo orientada a agentes. Incluye opciones para trabajar desde un entorno de desarrollo, la terminal y un administrador de agentes, por lo que puede ayudar a organizar y ejecutar tareas de programación asistidas por IA.
 
+### [Oracle](https://github.com/Segtem/oracle)
+
+Herramienta experimental que permite expresar como comprobaciones ejecutables los criterios con los que se evalúa lo producido por una IA y el proceso que lo generó. En lugar de dejar las reglas únicamente como recomendaciones, Oracle puede rechazar resultados que no cumplan las medidas declaradas y mostrar qué aspectos no fueron comprobados.
+
+Puede ayudarnos a detectar falsos resultados positivos, comprobar que las medidas realmente distingan casos correctos e incorrectos y conservar criterios de validación entre distintas sesiones de trabajo. No garantiza que la IA nunca se equivoque ni reemplaza la revisión humana; hace que los límites y la evidencia de cada verificación sean más visibles.
+
 ## Skill recomendada para programar
 
 ### [Ponytail](https://github.com/DietrichGebert/ponytail)
